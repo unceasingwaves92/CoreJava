@@ -1,0 +1,15 @@
+package com.emexo.interfaceexample2;
+
+public class SandyBridge implements Processor{
+
+
+    @Override
+    public void intelI5Processor(String norPerf) {
+        System.out.println("The normal performance is: "+ norPerf);
+    }
+
+    @Override
+    public void intelI7Processor(String goodPerf) {
+        System.out.println("The good performance is: "+ goodPerf);
+    }
+}
