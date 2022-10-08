@@ -1,4 +1,4 @@
-package com.emexo.collections1;
+package com.emexo.arraylist;
 
 import org.apache.commons.collections4.CollectionUtils;
 

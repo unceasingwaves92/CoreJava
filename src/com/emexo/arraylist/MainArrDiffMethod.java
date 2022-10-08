@@ -1,7 +1,5 @@
-package com.emexo.collections1;
+package com.emexo.arraylist;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class MainArrDiffMethod {

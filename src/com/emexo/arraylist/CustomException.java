@@ -1,4 +1,4 @@
-package com.emexo.collections1;
+package com.emexo.arraylist;
 
 public class CustomException extends Exception{
 
