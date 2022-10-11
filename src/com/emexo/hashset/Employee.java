@@ -38,7 +38,7 @@ public class Employee  {
         //  EmployeeExample e = (EmployeeExample) o;
         //   return (this.getEmployeeID()==(e.getEmployeeID()))
         Employee e = (Employee) o;
-        // return ((this.getEmployeename()).compareTo(e.getEmployeename()));
+      //   return ((this.getEmployeeName()).compareTo(e.getEmployeeName()));
         return (this.getEmployeeId()==(e.getEmployeeId()));
     }
 

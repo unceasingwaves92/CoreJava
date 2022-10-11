@@ -12,7 +12,7 @@ public class EmployeeMain {
         emp.setEmployeeName("karthik");
         Employee emp1 = new Employee();
         emp1.setEmployeeId(2);
-        emp1.setEmployeeName("sandhya");
+        emp1.setEmployeeName("abi");
         Employee emp2 = new Employee();
         emp2.setEmployeeId(3);
         emp2.setEmployeeName("manika");
@@ -20,18 +20,20 @@ public class EmployeeMain {
         emp3.setEmployeeId(3);
         emp3.setEmployeeName("manika");
 
-        Set<Employee> sets = new HashSet<>();
-        sets.add(emp);
-        sets.add(emp1);
-        sets.add(emp2);
-        sets.add(emp3);
+        Set<Employee> set = new HashSet<>();
+        set.add(emp);
+        set.add(emp1);
+        set.add(emp2);
+        set.add(emp3);
+        set.add(emp3);
 
-        System.out.println("The size of hash set: " + sets.size());
+        System.out.println("The size of hash set: " + set.size());
 
         EmployeeList obj = new EmployeeList();
        // obj.iterateUsingLambdaExpression(sets);
        // obj.iterateUsingForEach1(sets);
-        obj.iterateUsingIterator(sets);
+       /// obj.iterateUsingLambdaExpression(set);
+           obj.iterateUsingIterator(set);
 
 
          }
