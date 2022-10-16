@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Emexo.iml" filepath="$PROJECT_DIR$/Emexo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OracleDB/OracleDB.iml" filepath="$PROJECT_DIR$/../OracleDB/OracleDB.iml" />
     </modules>
   </component>
 </project>
