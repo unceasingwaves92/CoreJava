@@ -1,6 +1,6 @@
 package com.emexo.bounded;
 
-public class UpperBound<T extends Number> {
+public class UpperBound<T extends String> {
 
     private T t;
 
