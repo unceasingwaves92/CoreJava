@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SpringProject" />
         <module name="OracleDB" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Emexo" target="1.8" />
       <module name="OracleDB" target="1.8" />
+      <module name="SpringProject" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

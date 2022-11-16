@@ -8,6 +8,7 @@ public interface Animal {
     int noOfanimals=4;
 
     // abstract method - declare method only there is no method body
+    // if you creating one interface that is called functional interface
     void run();
     // Inside interface create any variable by default is public, static, final, abstract
     void sound();

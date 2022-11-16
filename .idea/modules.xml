@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Emexo.iml" filepath="$PROJECT_DIR$/Emexo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../OracleDB/OracleDB.iml" filepath="$PROJECT_DIR$/../OracleDB/OracleDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringProject/SpringProject.iml" filepath="$PROJECT_DIR$/../SpringProject/SpringProject.iml" />
     </modules>
   </component>
 </project>
