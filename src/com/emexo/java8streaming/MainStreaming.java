@@ -51,7 +51,7 @@ public class MainStreaming {
         if(average.isPresent()){
             System.out.println(average.getAsDouble());
         }
-     /*  // Collections.sort(listStudents);
+       /*// Collections.sort(listStudents);
         List<Student> duplicateNames = listStudents.stream()
                 //.filter(stu->stu.getName())
                 .sorted()
@@ -70,7 +70,10 @@ public class MainStreaming {
                 .sorted()
                 .parallel()
                 .limit(4)
-                .collect(Collectors.toList());
+                // .map(s->s.getScore())
+                 .collect(Collectors.toList());
+
+
 
         top4Students.forEach(data -> System.out.println(data));
 
