@@ -1,0 +1,61 @@
+2023-03-13 07:39:55 - Starting EurekaServerApplication using Java 1.8.0_144 on DESKTOP-3TVHP8S with PID 1132 (C:\Users\Dell\IdeaProjects\SpringProject_Emexo\SpringProject\Eureka\EurekaServer\build\classes\java\main started by Dell in C:\Users\Dell\IdeaProjects\Emexo)
+2023-03-13 07:39:55 - No active profile set, falling back to 1 default profile: "default"
+2023-03-13 07:40:02 - BeanFactory id=c73ea43d-8d40-3238-8ee0-8232e42ffcf0
+2023-03-13 07:40:05 - Tomcat initialized with port(s): 1090 (http)
+2023-03-13 07:40:05 - Starting service [Tomcat]
+2023-03-13 07:40:05 - Starting Servlet engine: [Apache Tomcat/9.0.69]
+2023-03-13 07:40:06 - Initializing Spring embedded WebApplicationContext
+2023-03-13 07:40:06 - Root WebApplicationContext: initialization completed in 10604 ms
+2023-03-13 07:40:08 - Initiating Jersey application, version 'Jersey: 1.19.4 05/24/2017 03:20 PM'
+2023-03-13 07:40:09 - Using JSON encoding codec LegacyJacksonJson
+2023-03-13 07:40:09 - Using JSON decoding codec LegacyJacksonJson
+2023-03-13 07:40:09 - Using XML encoding codec XStreamXml
+2023-03-13 07:40:09 - Using XML decoding codec XStreamXml
+2023-03-13 07:40:19 - Eureka HTTP Client uses Jersey
+2023-03-13 07:40:19 - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-03-13 07:40:19 - Setting initial instance status as: STARTING
+2023-03-13 07:40:20 - Initializing Eureka in region us-east-1
+2023-03-13 07:40:20 - Client configured to neither register nor query for data.
+2023-03-13 07:40:20 - Discovery Client initialized at timestamp 1678673420207 with initial instances count: 0
+2023-03-13 07:40:20 - Initializing ...
+2023-03-13 07:40:20 - Adding new peer nodes [http://localhost:8761/eureka/]
+2023-03-13 07:40:22 - Using JSON encoding codec LegacyJacksonJson
+2023-03-13 07:40:22 - Using JSON decoding codec LegacyJacksonJson
+2023-03-13 07:40:22 - Using XML encoding codec XStreamXml
+2023-03-13 07:40:22 - Using XML decoding codec XStreamXml
+2023-03-13 07:40:23 - Replica node URL:  http://localhost:8761/eureka/
+2023-03-13 07:40:23 - Finished initializing remote region registries. All known remote regions: []
+2023-03-13 07:40:23 - Initialized
+2023-03-13 07:40:23 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-03-13 07:40:23 - Registering application UNKNOWN with eureka with status UP
+2023-03-13 07:40:23 - isAws returned false
+2023-03-13 07:40:23 - Initialized server context
+2023-03-13 07:40:23 - Got 1 instances from neighboring DS node
+2023-03-13 07:40:23 - Renew threshold is: 1
+2023-03-13 07:40:23 - Changing status to UP
+2023-03-13 07:40:23 - Tomcat started on port(s): 1090 (http) with context path ''
+2023-03-13 07:40:23 - Updating port to 1090
+2023-03-13 07:40:23 - Started Eureka Server
+2023-03-13 07:40:25 - Started EurekaServerApplication in 34.375 seconds (JVM running for 38.169)
+2023-03-13 07:41:23 - Running the evict task with compensationTime 0ms
+2023-03-13 07:42:23 - Running the evict task with compensationTime 11ms
+2023-03-13 07:43:23 - Running the evict task with compensationTime 13ms
+2023-03-13 07:44:23 - Running the evict task with compensationTime 3ms
+2023-03-13 07:45:23 - Running the evict task with compensationTime 11ms
+2023-03-13 07:46:23 - Running the evict task with compensationTime 10ms
+2023-03-13 07:47:23 - Running the evict task with compensationTime 8ms
+2023-03-13 07:48:23 - Running the evict task with compensationTime 14ms
+2023-03-13 07:49:23 - Running the evict task with compensationTime 5ms
+2023-03-13 07:50:23 - Running the evict task with compensationTime 13ms
+2023-03-13 07:51:23 - Running the evict task with compensationTime 2ms
+2023-03-13 07:52:23 - Running the evict task with compensationTime 13ms
+2023-03-13 07:53:23 - Running the evict task with compensationTime 3ms
+2023-03-13 07:54:23 - Running the evict task with compensationTime 0ms
+2023-03-13 07:55:23 - Current renewal threshold is : 1
+2023-03-13 07:55:23 - Running the evict task with compensationTime 15ms
+2023-03-13 07:56:23 - Running the evict task with compensationTime 5ms
+2023-03-13 07:57:23 - Running the evict task with compensationTime 12ms
+2023-03-13 07:58:23 - Running the evict task with compensationTime 8ms
+2023-03-13 07:59:23 - Running the evict task with compensationTime 3ms
+2023-03-13 08:00:23 - Running the evict task with compensationTime 8ms
+2023-03-13 08:01:23 - Running the evict task with compensationTime 7ms

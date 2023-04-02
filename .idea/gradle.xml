@@ -4,13 +4,51 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/Eureka/EurekaServer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/Eureka/EurekaServer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringIntegrationKafka" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringIntegrationKafka" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../defect-tracking-api/defect-tracking-api" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../defect-tracking-api/defect-tracking-api" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../reporting-api/reporting-api" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../reporting-api/reporting-api" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../springmvcwithspringboot/springmvcwithspringboot" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../springmvcwithspringboot/springmvcwithspringboot" />
           </set>
         </option>
       </GradleProjectSettings>

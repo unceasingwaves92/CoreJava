@@ -7,16 +7,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringProject" />
+        <module name="SpringJwtAuthExample" />
         <module name="OracleDB" />
+        <module name="spring-integration" />
+        <module name="SpringBatchProject" />
+        <module name="springboot-batch" />
+        <module name="SpringProject" />
+        <module name="SpringBatchProject1" />
+        <module name="spring-cloud-oauth2-example" />
+        <module name="spring-boot-jwt" />
+        <module name="SpringBootOAuthGitHubLogin" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
         </processorPath>
-        <module name="defect-tracking-api.main" />
+        <module name="springmvcwithspringboot.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBatchProject" options="-parameters" />
+      <module name="SpringBatchProject1" options="-parameters" />
+      <module name="SpringBootOAuthGitHubLogin" options="-parameters" />
+      <module name="SpringJwtAuthExample" options="-parameters" />
+      <module name="spring-boot-jwt" options="-parameters" />
+      <module name="spring-cloud-oauth2-example" options="-parameters" />
+      <module name="spring-integration" options="-parameters" />
+    </option>
   </component>
 </project>

@@ -7,6 +7,14 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../OracleDB/pom.xml" />
         <option value="$PROJECT_DIR$/../SpringProject/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringBootOAuth2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringBootOAuthGitHubLogin/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringBootWithJWT/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringJwtAuthExample/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/spring-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringBatchProject/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/SpringBatchProject1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringProject_Emexo/SpringProject/springboot-batch/pom.xml" />
       </list>
     </option>
   </component>
